@@ -1,0 +1,20 @@
+let openBtn = document.getElementById('open-btn'),
+		name = document.getElementsByClassName('name'),
+		budget = document.getElementsByClassName('budget'),
+		goods = document.getElementsByClassName('goods'),
+		items = document.getElementsByClassName('items'),
+		employers = document.getElementsByClassName('employers'),
+		discount = document.getElementsByClassName('discount'),
+		isopen = document.getElementsByClassName('isopen'),
+		nameV = document.getElementsByClassName('name-value'),
+		budgetV = document.getElementsByClassName('budget-value'),
+		goodsV = document.getElementsByClassName('goods-value'),
+		itemsV = document.getElementsByClassName('items-value'),
+		employersV = document.getElementsByClassName('employers-value'),
+		discountV = document.getElementsByClassName('discount-value'),
+		isopenV = document.getElementsByClassName('isopen-value'),
+		goodsItem = document.getElementsByClassName('goods-item'),
+		goodsItemBtn = document.getElementsByTagName('button'),
+		goodsItem2 = document.querySelector('goods-item');
+		hireEmployersItem =document.querySelectorAll('hire-employers-item');
+
