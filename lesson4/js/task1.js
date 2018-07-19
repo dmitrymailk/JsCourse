@@ -7,3 +7,4 @@ console.log(Number(nm[0])+Number(nm[2]));
 
 
 
+ 
