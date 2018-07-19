@@ -15,6 +15,6 @@ let openBtn = document.getElementById('open-btn'),
 		isopenV = document.getElementsByClassName('isopen-value'),
 		goodsItem = document.getElementsByClassName('goods-item'),
 		goodsItemBtn = document.getElementsByTagName('button'),
-		goodsItem2 = document.querySelector('goods-item');
-		hireEmployersItem =document.querySelectorAll('hire-employers-item');
+		goodsItem2 = document.querySelector('.goods-item');
+		hireEmployersItem =document.querySelectorAll('.hire-employers-item');
 
